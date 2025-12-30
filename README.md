@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 
-![Anjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjana4444&show_icons=true&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anjana4444&show_icons=true&locale=en&layout=compact" alt="Anjana4444" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana4444&layout=compact&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anjana4444&show_icons=true&locale=en" alt="Anjana4444" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anjana4444&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjana4444&" alt="Anjana4444" /></p>
